@@ -1,7 +1,7 @@
 # Athlete Management System
 
 ![Blog Image](./Images/Landing_Page.png)
-This project is for my final year MSc Computer Science dissertation and research work at Teesside University - Middlesbrough FC Project.
+This project is for my final year MSc Computer Science dissertation and research work.
 
 ### Problem
 
